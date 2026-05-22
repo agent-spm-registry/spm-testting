@@ -1,0 +1,11 @@
+{
+  "name": "spm-testting-rules",
+  "version": "1.0.0",
+  "description": "Rules skill from spm-testting collection",
+  "type": "rules",
+  "skillFile": "SKILL.md",
+  "author": "lakshitsoni",
+  "license": "MIT",
+  "skills": {},
+  "keywords": []
+}

@@ -1,0 +1,14 @@
+{
+  "name": "spm-testting",
+  "version": "1.0.1",
+  "description": "asdasf",
+  "type": "collection",
+  "author": "lakshitsoni",
+  "license": "MIT",
+  "template": "collection",
+  "workspaces": [
+    "skills/*"
+  ],
+  "skills": {},
+  "keywords": []
+}
