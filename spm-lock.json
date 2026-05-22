@@ -1,0 +1,11 @@
+{
+  "lockfileVersion": 1,
+  "packages": {
+    "test-pull@1.0.0": {
+      "name": "test-pull",
+      "version": "1.0.0",
+      "integrity": "ee3df817d3020416037d24560c7dc8113e31749f6e3a3f02a516564664e6f7ff",
+      "resolved": "https://github.com/agent-spm-registry/test-pull/releases/download/v1.0.0/test-pull-1.0.0.tgz"
+    }
+  }
+}
